@@ -1,0 +1,18 @@
+img {
+    width: 100%;
+    margin: 0;
+}
+body {
+    margin: 0;
+}
+figure {
+position: relative;
+}
+figure p {
+    position: absolute;
+    top: 50px;
+    left:200px;
+}
+a {
+    color: blue;
+}

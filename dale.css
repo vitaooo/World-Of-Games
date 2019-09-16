@@ -1,0 +1,36 @@
+h1 {
+    text-align: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+    margin: 0%;
+    font-size: 30px;
+}
+header {
+    margin: 0px;
+    justify-content: space-between;
+}
+header {
+    display: flex;
+}
+a {
+    font-size: 20px;
+    margin: 0%;
+    text-align: right;
+    text-align: left;
+    color: rgb(168, 16, 16);
+        
+}
+input {
+    display: block;
+}
+ul {
+    list-style: none;
+}
+body {
+    background: url(kontroller-2022084_1280.png) no-repeat;
+    
+}
+h1 {
+    color: rgb(10, 177, 10);
+    margin-top: 40px;
+}
